@@ -1,1 +1,1 @@
-# WARX-Project
+This project corresponds to the paper: Liu J, Rijmen V, Hu Y P, et al. WARX: efficient white-box block cipher based on ARX primitives and random MDS matrix. Sci China Inf Sci, 2021, 64(12): XX-XX, https://doi.org/10.1007/s11432-020-3105-1
